@@ -6,7 +6,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>4.1.0</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<relativePath/>
 	</parent>
 	<groupId>com.github.zabavgit</groupId>
 	<artifactId>javarush-telegrambot</artifactId>
@@ -44,7 +44,7 @@
 		<dependency>
 			<groupId>com.google.guava</groupId>
 			<artifactId>guava</artifactId>
-			<version>33.2.1-jre</version> <!-- или используйте самую свежую версию -->
+			<version>33.2.1-jre</version>
 		</dependency>
 
 		<dependency>
