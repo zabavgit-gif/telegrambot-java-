@@ -5,7 +5,6 @@ import com.github.zabavgit.javarushtelegrambot.service.SendBotMessageService;
 import com.github.zabavgit.javarushtelegrambot.service.SendBotMessageServiceImpl;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
-import org.mockito.internal.verification.VerificationModeFactory;
 import org.telegram.telegrambots.meta.api.methods.send.SendMessage;
 import org.telegram.telegrambots.meta.api.objects.Message;
 import org.telegram.telegrambots.meta.api.objects.Update;
